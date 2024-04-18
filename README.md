@@ -16,3 +16,5 @@ Use the python environment / binary where you want to install it and run setup.p
 
 <your python path> setup.py
 This should install the ffmpy
+
+H:\ComfyUI_windows_portable\python_embeded\python.exe -m pip install importlib_resources

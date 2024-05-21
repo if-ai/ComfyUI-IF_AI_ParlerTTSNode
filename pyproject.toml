@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-if_ai_parlerttsnode"
-description = ""
+description = "leverages Whisper Speech for voice synthesis, allowing users to train a voice model on-the-fly."
 version = "1.0.0"
 license = "LICENSE"
 

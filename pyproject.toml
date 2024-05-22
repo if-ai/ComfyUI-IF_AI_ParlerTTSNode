@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-if_ai_parlerttsnode"
-description = "leverages Whisper Speech for voice synthesis, allowing users to train a voice model on-the-fly."
+description = "Parler TTS is a zeroshot voice synthesis with emotion and entonations, you can control the voice style via text prompt"
 version = "1.0.0"
 license = "LICENSE"
 
@@ -9,6 +9,6 @@ Repository = "https://github.com/if-ai/ComfyUI-IF_AI_ParlerTTSNode"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "impactframes"
 DisplayName = "ComfyUI-IF_AI_ParlerTTSNode"
-Icon = ""
+Icon = "💥🎞️"

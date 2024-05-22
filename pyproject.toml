@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-if_ai_parlerttsnode"
+description = "leverages Whisper Speech for voice synthesis, allowing users to train a voice model on-the-fly."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/if-ai/ComfyUI-IF_AI_ParlerTTSNode"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-IF_AI_ParlerTTSNode"
+Icon = ""

@@ -2,7 +2,7 @@
 name = "comfyui-if_ai_parlerttsnode"
 description = "Parler TTS is a zeroshot voice synthesis with emotion and entonations, you can control the voice style via text prompt"
 version = "1.0.0"
-license = "LICENSE"
+license = { file = "LICENSE" }
 
 [project.urls]
 Repository = "https://github.com/if-ai/ComfyUI-IF_AI_ParlerTTSNode"

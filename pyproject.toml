@@ -2,7 +2,7 @@
 name = "comfyui-if_ai_parlerttsnode"
 description = "Parler TTS is a zeroshot voice synthesis with emotion and entonations, you can control the voice style via text prompt"
 version = "1.0.0"
-license = "LICENSE"
+license = { file = "MIT License" }
 
 [project.urls]
 Repository = "https://github.com/if-ai/ComfyUI-IF_AI_ParlerTTSNode"
@@ -10,5 +10,5 @@ Repository = "https://github.com/if-ai/ComfyUI-IF_AI_ParlerTTSNode"
 
 [tool.comfy]
 PublisherId = "impactframes"
-DisplayName = "ComfyUI-IF_AI_ParlerTTSNode"
-Icon = "💥🎞️"
+DisplayName = "IF_ParlerTTSNode"
+Icon = "https://impactframes.ai/System/Icons/48x48/if.png"
